@@ -7,4 +7,5 @@ This repository contains source code for the main experiments of the NeurIPS 202
 `measurements.py` contains code for the computation of several kernel quantities on precomputed ntks.
 
 ## Notebook demo
-`NTK_features_example.ipynb` is a self-contained notebook (that can be run on google colab) that demonstrates NTK features, as defined in the paper.
+`NTK_features_example.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Py7Qk1cAg93m-zmzLnaGLPJ99VYtvnB_?usp=sharing)
+ is a self-contained notebook (that can be run on google colab) that demonstrates the NTK features of an architecture, as defined in the paper.
